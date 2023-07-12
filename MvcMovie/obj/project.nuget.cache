@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "emdEEwdhATDmZBrn5u/o0hotXvXsGkVeszHl3EgHKKXv14l5OG1z+UoNi684xn9nsrkqOLdxCNrtX90YTXpVmg==",
+  "dgSpecHash": "07hBm0YdO0FEqVXcKu6lbNcDm0fXT9+v7MPWhHyBsISieavXhXX6dn+R/U/vyEFeKLqtsMbedK+adIbftI6Msw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matthew\\Documents\\GitHub\\trying_MVC\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -85,6 +85,7 @@
     "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.9\\microsoft.entityframeworkcore.sqlite.7.0.9.nupkg.sha512",
     "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.9\\microsoft.entityframeworkcore.sqlite.core.7.0.9.nupkg.sha512",
     "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.9\\microsoft.entityframeworkcore.sqlserver.7.0.9.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.9\\microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
     "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
